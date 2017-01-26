@@ -1,0 +1,49 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:listChoiceIndicatorMultiple">@drawable/checkbox</item>
+        <item name="android:buttonStyle">@style/Button</item>
+
+        <!-- Just for simplification of this poorly coded app I'm doing this,
+        but just for this app, do not recommend to my future self to reuse -->
+        <item name="android:textColorPrimary">#de000000</item>
+        <item name="android:textColorSecondary">#de000000</item>
+        <item name="android:textColorTertiary">#de000000</item>
+    </style>
+
+    <!-- Widget.AppCompat.Button is the default -->
+    <style name="Button" parent="Widget.AppCompat.Button">
+        <item name="android:background">@drawable/button_bordered_rectangle</item>
+        <item name="android:paddingLeft">@dimen/button_leftRight_padding</item>
+        <item name="android:paddingRight">@dimen/button_leftRight_padding</item>
+
+        <!-- Text -->
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textColor">#deffffff</item>
+        <item name="android:fontFamily">sans-serif</item>
+        <item name="android:textSize">22dp</item> <!-- Default is 22sp-->
+        <item name="android:textStyle">bold</item>
+
+        <!-- Shadow really makes the text pop, not the same as the outline I still seek but it's still rather nice
+        Dx and Dy are the x,y translations, otherwise shadow is directly beneath text,
+        Shadow Radius is kinda how 'high' the object is, makes the shadow bigger but more faded-->
+        <item name="android:shadowColor">#000000</item>
+        <item name="android:shadowDx">4</item>
+        <item name="android:shadowDy">1</item>
+        <item name="android:shadowRadius">2</item>
+    </style>
+
+    <style name="HighScoreValues" parent="android:TextAppearance.Large">
+        <item name="android:textSize">18dp</item>
+        <item name="android:fontFamily">sans-serif</item>
+    </style>
+
+    <style name="HighScoreNumberText" parent="android:TextAppearance.Medium">
+        <item name="android:textSize">18dp</item>
+    </style>
+</resources>

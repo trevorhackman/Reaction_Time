@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Reaction Time</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-9667393179892638/1201493704</string>
+    <string name="reaction_time_test">Reaction Time</string>
+    <string name="the_average_person_has_a_reaction_time_of_0_25_seconds_find_out_what_yours_is">The average person has a reaction time of 0.250 seconds. Find out what yours is!</string>
+    <string name="start">Start</string>
+    <string name="high_scores">High Scores</string>
+    <string name="instructions">Instructions</string>
+    <string name="press_and_hold_your_finger_to_the_screen_wait_until_the_screen_turns_green_to_release">Press and hold your finger to the screen. Wait until the screen turns green to release.</string>
+    <string name="menu">Menu</string>
+    <string name="average">Average</string>
+    <string name="n_a" translatable="false">---</string>
+    <string name="high_score">High Score</string>
+    <string name="pressed">Pressed</string>
+    <string name="wait_until_the_screen_turns_green_to_release">Wait until the screen turns green to release.</string>
+    <string name="clear_all_data">Clear All Data</string>
+    <string name="average_of_last_10_attempts">Last 10 Average</string>
+    <string name="n_a_2" translatable="false">\u0020---\u0020 </string>
+    <string name="_1" translatable="false">1)</string>
+    <string name="_2" translatable="false">2)</string>
+    <string name="_3" translatable="false">3)</string>
+    <string name="_4" translatable="false">4)</string>
+    <string name="_5" translatable="false">5)</string>
+    <string name="_6" translatable="false">6)</string>
+    <string name="_7" translatable="false">7)</string>
+    <string name="_8" translatable="false">8)</string>
+    <string name="_9" translatable="false">9)</string>
+    <string name="_10" translatable="false">10)</string>
+    <string name="released_early">Released Early</string>
+    <string name="you_released_too_early_press_and_hold_your_finger_to_the_screen_to_try_again">You released too early! Press and hold your finger to the screen to try again.</string>
+    <string name="release_now">Release NOW!</string>
+    <string name="you_took">"You took "</string>
+    <string name="seconds_to_react_press_and_hold_to_try_again">" seconds to react. Press and hold to try again."</string>
+    <string name="clear_selected">Clear Selected</string>
+    <string name="average_is_of_the_last_10_attempts">*Average is of the last 10 attempts</string>
+    <string name="dialogue_cancel">Cancel</string>
+    <string name="dialogue_delete">Delete</string>
+    <string name="dialogue_title_delete_all">Delete all data?</string>
+    <string name="dialogue_title_delete_selected">Delete selected data?</string>
+    <string name="dialogue_message_delete">Deletion is permanent</string>
+    <string name="more_games_button">More Games</string>
+    <string name="rate_button">Rate This App</string>
+</resources>

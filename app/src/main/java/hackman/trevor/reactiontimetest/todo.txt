@@ -1,0 +1,38 @@
+DONE Version 1.4.0 - Major Visual Upgrade
+DONE 1.0 Better ad backgrounds - Black background for bad ads
+DONE 1.1 A transparent background on the ads before they load, then black background in case of faulty ads
+
+DONE 2.0 Better colors
+DONE 2.1 Decide between GreenAccent400 and GreenPure - GreenAccent400
+DONE 2.2 Better Red Color - Between RedPure, Red500, and RedAccent400 - RedAccent400
+DONE 2.3 Better Orange Color - OrangeAccent400
+DONE 2.4 Decide on button colors
+
+DONE 3.0 Alert Dialog on clearing data and clearing selected
+
+DONE 4.0 Add More Games Button on Main Menu
+
+DONE 6.0 Better title_logo, fancy text, make image w/ online program
+
+DONE Version 1.4.1 - Better App Icon
+
+TODO Version 1.4.2 - Better High Scores Visual
+
+
+TODO Version 1.5.0 - Audio Update
+TODO 1.0 Audio
+TODO 1.1 Ding on successful lift, err on early lift
+TODO 1.2 Calm music when on main screen/high scores/playscreen?
+
+TODO Version 2.0 of APP will have the following
+Better scoring, an average of 5 or 10 w/ punishment for releasing early is needed to prevent insane guessing high scores
+
+And maybe,
+Settings: color blind mode, the ability to do tap tests instead of hold and release.
+Pay to remove ads
+Leaderboards
+Stats: Your percentile
+Analytics
+Multiple saves for multi-user support
+Tablet support
+Watch support
